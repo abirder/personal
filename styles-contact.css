@@ -272,7 +272,8 @@ nav{
 	fill: transparent;
 	border-radius: 8px;
 	font-size: 0;
-    
+    	border-style: solid;
+    	border-width: 1.5px;
 }  
 
 nav li{
