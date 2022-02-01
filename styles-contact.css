@@ -133,7 +133,7 @@ p {
 
 h1:hover {
    /* background: linear-gradient(-45deg, #b2b572, #85b54a, #d9f4ff, #9e9e9e); */
-    background: linear-gradient(-45deg,#8f12e3, #dd4df0, #2a41db); 
+    background: linear-gradient(-45deg,#427c0f, #dd4df0, #bab145); 
     background-clip: text;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -288,7 +288,7 @@ nav a {
 	z-index: 1;
 	text-decoration: none;
 	text-align: center;
-	color: black;
+	color: white;
 	cursor: pointer;
 }
 
@@ -324,5 +324,5 @@ nav .start-about, a:nth-child(2):hover~.animation {
 nav .start-blog, a:nth-child(3):hover~.animation {
 	width: 166px;
 	left: 332px;
-	background-color: #bab145;
+	background-color: #b82a2a;
 }
