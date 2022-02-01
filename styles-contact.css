@@ -268,7 +268,8 @@ nav{
 	position: relative;
 	width: 498px;
 	height: 60px;
-    background-color: #34495e; 
+    /* background-color: #34495e; */
+	fill: transparent;
 	border-radius: 8px;
 	font-size: 0;
     
