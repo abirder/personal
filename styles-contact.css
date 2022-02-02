@@ -266,8 +266,8 @@ a, a:focus, a:hover, a:active, a:visited {
 nav{
 	margin: 20px auto 0;
 	position: relative;
-	width: 497px;
-	height: 59px;
+	width: 498px;
+	height: 60px;
     /* background-color: #34495e; */
 	fill: transparent;
 	border-radius: 8px;
@@ -304,27 +304,27 @@ nav .animation {
 }
 
 a:nth-child(1) {
-	width: 166px;
+	width: 166.5px;
 }
 a:nth-child(2) {
-	width: 166px;
+	width: 166.5px;
 }
 a:nth-child(3) {
-	width: 166px;
+	width: 166.5px;
 }
 
 nav .start-home, a:nth-child(1):hover~.animation {
-	width: 166px;
+	width: 166.5px;
 	left: 0;
 	background-color: #427c0f;
 }
 nav .start-about, a:nth-child(2):hover~.animation {
-	width: 166px;
-	left: 166px;
+	width: 166.5px;
+	left: 166.5px;
 	background-color: #0673c7;
 }
 nav .start-blog, a:nth-child(3):hover~.animation {
-	width: 166px;
-	left: 332px;
+	width: 166.5px;
+	left: 333px;
 	background-color: #b82a2a;
 }
